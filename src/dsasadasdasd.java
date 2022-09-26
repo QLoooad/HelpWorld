@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dsasadasdasd { //´Ü¾îÀÇ ¼ö, ±ÛÀÚÀÇ ¼ö
+public class dsasadasdasd { //ë‹¨ì–´ì˜ ìˆ˜, ê¸€ìì˜ ìˆ˜
  public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
